@@ -1,4 +1,5 @@
 ### Hi there 👋
+E-mail: rkttgh@naver.com
 
 <!--
 **JeongSeongwook0123/JeongSeongwook0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
