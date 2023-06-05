@@ -20,7 +20,15 @@ Here are some ideas to get you started:
   
   </body>
 <img src="https://img.shields.io/badge/Kotlin-707070?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-707070?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-707070?style=flat-square&logo=Android&logoColor=white"/>
+
+Tools: 
+ <img src="https://img.shields.io/badge/AndroidStudio-707070?style=flat-square&logo=AndroidStudio&logoColor=white"/>  <!--안드로이드 스튜디오-->
+ <img src="https://img.shields.io/badge/Figma-707070?style=flat-square&logo=figma&logoColor=white"/>                  <!--피그마-->
+ <img src="https://img.shields.io/badge/Notion-707070?style=flat-square&logo=notion&logoColor=white"/>                <!--노션-->
+ <img src="https://img.shields.io/badge/Firebase-707070?style=flat-square&logo=Firebase&logoColor=white"/>            <!--파이어베이스-->
+ <img src="https://img.shields.io/badge/Slack-707070?style=flat-square&logo=Slack&logoColor=white"/>                   <!--슬랙-->
+ 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongSeongwook0123&theme=tokyonight&show_icons=true" width="42%" />
 </a>
