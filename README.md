@@ -29,11 +29,11 @@ Tools:
  <img src="https://img.shields.io/badge/Firebase-707070?style=flat-square&logo=Firebase&logoColor=white"/>            <!--파이어베이스-->
  <img src="https://img.shields.io/badge/Slack-707070?style=flat-square&logo=Slack&logoColor=white"/>                   <!--슬랙-->
  
-<a href="s">
+<a href="JeongSeongwook0123">
   <img src="https://github-readme-stats.vercel.app/api?username=JeongSeongwook0123&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 <br>
-<a href="s">
+<a href="JeongSeongwook0123">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSeongwook0123&exclude_repo=JeongSeongwook0123.github.io&layout=compact&theme=tokyonight" />
 </a>
 
